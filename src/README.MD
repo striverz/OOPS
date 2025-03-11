@@ -17,3 +17,11 @@
   - Method Overriding
   - super Keyword
   - Multiple Inheritance
+
+- Polymorphism
+  - Polymorphism
+  - Types of polymorphism
+  - Dynamic method Dispatching
+  - Can a return type differentiate overloadin
+  - Can we override Static Method
+  - How to Trigger Static method from child class
