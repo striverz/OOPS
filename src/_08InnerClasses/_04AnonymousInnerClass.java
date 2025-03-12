@@ -26,5 +26,8 @@ public class _04AnonymousInnerClass {
             }
         };
         s2.method2();
+
+
+
     }
 }

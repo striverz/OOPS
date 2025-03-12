@@ -50,5 +50,10 @@
   - static blocks
   - can a static method access non-static method?
   - advantages of static keyword
+
+- InnerClasses
+  - InnerClasses
+  - Types of InnerClasses
+  - 
   
 
