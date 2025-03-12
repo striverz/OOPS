@@ -42,5 +42,13 @@
   - Why use interfaces for multiple Inheritances
   - Interface Inheritance
   - default and static methods
+
+- Static Keyword
+  - static keyword
+  - static variable
+  - static method
+  - static blocks
+  - can a static method access non-static method?
+  - advantages of static keyword
   
 
