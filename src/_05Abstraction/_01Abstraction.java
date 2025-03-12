@@ -1,6 +1,7 @@
 package _05Abstraction;
 
 abstract class Animal{
+    int x=100; //abstract class can also have the instace variables
     void eat(){
         System.out.println("The Animal eats food");
     }

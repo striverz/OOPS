@@ -33,5 +33,14 @@
   - can an abstract class extends another abstract class
   - Can we have a constructor inside the abstract class
   - Can we create instace of abstract class
+
+- Interfaces
+  - Interfaces
+  - Can it have the instace variables(no).only (static final int cnt=0) this available 
+  - Can they have constructors(No)
+  - Can a class implemtns the multiple interfaces
+  - Why use interfaces for multiple Inheritances
+  - Interface Inheritance
+  - default and static methods
   
 
