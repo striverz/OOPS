@@ -1,68 +1,106 @@
-# Object Oriented Programming
+### Object Oriented Programming
 
-- Introduction to OOPS
-  - Class and Object
-  - setters and getters
-  - constructors
-  
+---
+
+### 1. Introduction to OOPS
+- Class and Object
+- Setters and Getters
+- Constructors
+
+---
+
+### 2. Encapsulation
 - Encapsulation
-  - Encapsulation
-  - Access Modifiers
-  - Types of Access Modifiers and Diff
-  
+- Access Modifiers
+- Types of Access Modifiers and Differences
+
+---
+
+### 3. Inheritance
 - Inheritance
-  - Inheritance
-  - Types of Inheritance
-  - Method Overloading
-  - Method Overriding
-  - super Keyword
-  - Multiple Inheritance
+- Types of Inheritance
+- Method Overloading
+- Method Overriding
+- super Keyword
+- Multiple Inheritance
 
+---
+
+### 4. Polymorphism
 - Polymorphism
-  - Polymorphism
-  - Types of polymorphism
-  - Dynamic method Dispatching
-  - Can a return type differentiate overloadin
-  - Can we override Static Method
-  - How to Trigger Static method from child class
+- Types of Polymorphism
+- Dynamic Method Dispatching
+- Can a Return Type Differentiate Overloading?
+- Can We Override Static Methods?
+- How to Trigger a Static Method from a Child Class?
 
+---
+
+### 5. Abstraction
 - Abstraction
-  - Abstraction
-  - How Abstraction achieven in java(Class and Interfaces)
-  - Why default and static methods are introduced after java 8
-  - can an abstract class extends another abstract class
-  - Can we have a constructor inside the abstract class
-  - Can we create instace of abstract class
+- How is Abstraction Achieved in Java (Classes and Interfaces)?
+- Why Were Default and Static Methods Introduced After Java 8?
+- Can an Abstract Class Extend Another Abstract Class?
+- Can We Have a Constructor Inside an Abstract Class?
+- Can We Create an Instance of an Abstract Class?
 
+---
+
+### 6. Interfaces
 - Interfaces
-  - Interfaces
-  - Can it have the instace variables(no).only (static final int cnt=0) this available 
-  - Can they have constructors(No)
-  - Can a class implemtns the multiple interfaces
-  - Why use interfaces for multiple Inheritances
-  - Interface Inheritance
-  - default and static methods
+- Can It Have Instance Variables? (No, Only `static final int cnt = 0` is Available)
+- Can They Have Constructors? (No)
+- Can a Class Implement Multiple Interfaces?
+- Why Use Interfaces for Multiple Inheritance?
+- Interface Inheritance
+- Default and Static Methods
 
+---
+
+### 7. Static Keyword
 - Static Keyword
-  - static keyword
-  - static variable
-  - static method
-  - static blocks
-  - can a static method access non-static method?
-  - advantages of static keyword
+- Static Variable
+- Static Method
+- Static Blocks
+- Can a Static Method Access a Non-Static Method?
+- Advantages of Static Keyword
 
-- InnerClasses
-  - InnerClasses
-  - Types of InnerClasses
-  
+---
+
+### 8. Inner Classes
+- Inner Classes
+- Types of Inner Classes
+
+---
+
+### 9. Object Cloning
 - Object Cloning
-  - Object Cloning
-  - why use of Object cloning
-  - How Cloning works in java
-  - types of cloning
-  - shallow cloning
-  - deep cloning
-  
+- Why Use Object Cloning?
+- How Cloning Works in Java
+- Types of Cloning
+- Shallow Cloning
+- Deep Cloning
 
-  
+---
 
+### 10. Exception Handling
+- Exception Handling
+- try-catch
+- Multiple try-catch Blocks
+- finally Block
+- throw and throws
+- Custom Exceptions
+- Real-Life Example: InsufficientBalance Exception
+
+---
+
+### 11. File Handling
+- File Handling
+- Creating a File
+- File Properties
+- Writing to a File
+- Reading a File
+- Appending to a File
+- Deleting a File
+
+---

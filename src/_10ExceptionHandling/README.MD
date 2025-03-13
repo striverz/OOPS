@@ -24,3 +24,28 @@ catch (ExceptionType e) {
 - `throw and throws` keywords In `Exception Handling`?
   - The throw keyword is used inside a method or block to explicitly throw an exception.
   - The throws keyword is used in a method signature to indicate that the method might throw an exception.
+
+- Checked & Unchecked Exceptions
+  - These are exceptions that the compiler forces you to handle using try-catch or declare using throws (e.g., IOException, SQLException).
+```java
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+// Main class
+class Main {
+    public static void main(String[] args) throws FileNotFoundException { 
+        File file = new File("test.txt");
+        Scanner reader = new Scanner(file); // Must handle or declare exception
+    }
+}
+  ```
+
+  - These occur at runtime and do not require explicit handling. They are usually due to logical errors in the code (e.g., NullPointerException, ArithmeticException).
+```java
+public class UncheckedExceptionExample {
+    public static void main(String[] args) {
+        int result = 10 / 0; // ArithmeticException (unchecked)
+    }
+}
+  ```
