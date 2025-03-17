@@ -75,7 +75,7 @@
 - Static Variable
 - Static Method
 - Static Blocks
-- Can a Static Method Access a Non-Static Method?
+- Can a Static Method Access a Non-Static Method? `NO`
 - Advantages of Static Keyword
 
 ---

@@ -2,7 +2,10 @@ package _07StaticKeyword;
 
 class Example{
 
+    static int x;
+
     static{
+        x=1000;
         System.out.println("static block1");
 
     }
