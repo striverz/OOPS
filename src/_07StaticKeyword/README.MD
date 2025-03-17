@@ -18,7 +18,7 @@ A **static variable** (also called a **class variable**) is a variable that is *
 ---
 
 ## 🔹 What is a Static Method?
-A **static method** is a method that **belongs to the class** rather than instances of the class. It is declared using the `static` keyword and can be called **without creating an object** of the class. Static methods can **only access static variables** and **other static methods**.  
+A **static method** is a method that that is **shared** among all instances of a class. It is declared using the `static` keyword and can be called **without creating an object** of the class. Static methods can **only access static variables** and **other static methods**.  
 📌 **Reference**: [Static Methods](_02StaticMethod.java)
 
 ---
