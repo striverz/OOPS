@@ -3,9 +3,12 @@
 ---
 
 ### 1. Introduction to OOPS
+- OOPS
 - Class and Object
+- 4 Pillars of OOPS
 - Setters and Getters
 - Constructors
+
 
 ---
 

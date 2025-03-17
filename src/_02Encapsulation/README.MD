@@ -5,6 +5,9 @@ Encapsulation is the process where the internal details of an object are kept hi
 
 In simple terms, encapsulation ensures that the object's internal workings remain hidden, allowing external entities to interact with the object only through well-defined interfaces (methods).
 
+[Encapsulation](_01Encapsulation.java)
+
+
 ### Importance of Encapsulation
 - **Data Security**: The most significant benefit is data protection. Sensitive data can be hidden from external manipulation and can only be accessed or modified in a controlled manner.
 - **Modular Code**: Encapsulation promotes cleaner, modular code by bundling related data and behaviors together. It helps in organizing the code, making it more readable and maintainable.
