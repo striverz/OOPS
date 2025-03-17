@@ -3,7 +3,7 @@
 #### **What is `Inheritance`?**
 - Inheritance allows a new class to inherit properties and methods from an existing class.The class that inherits is called a **Subclass**, and the class from which it inherits is called a **SuperClass**.
 - It is a mechanism that promotes **code reusability** and establishes a **hierarchical relationship** between classes.
-
+[Inheritance](_01Inheritance.java)
 ---
 
 #### **Importance of `Inheritance`?**
@@ -24,7 +24,7 @@
 - **`super` Keyword**
 
 ---
-- `Super Keyword`:The super keyword in Java is a reference variable which is used to access the immediate parent class.
+-  ## `Super Keyword`:The super keyword in Java is a reference variable which is used to access the immediate parent class.
    - It is used to access the parent class Constructor,method or the variable.
   
 ## Summary of `super` Keyword Uses
@@ -40,7 +40,7 @@
 #### **Difference between `Method Overloading` and `Method Overriding`?**
 - **Method Overloading**: Occurs when two or more methods in the same class have the same name but different parameter lists (number, type, or order of parameters).
 - **Method Overriding**: Redefining the method of a `SuperClass` in the `SubClass` is called **Method Overriding**.
-
+[Method Overriding](_02Overriding.java)
 ---
 
 #### **`Multiple Inheritance` in Java?**

@@ -28,7 +28,7 @@
   - access modifiers
   - Method Overriding
   - super keyword
-  - Can a subClass Inherit Private members? `NO`
+- Can a subClass Inherit Private members? `NO`
 - Method Overloading
 - Method Overriding
 - Multiple Inheritance In Java
