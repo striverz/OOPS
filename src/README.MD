@@ -14,6 +14,7 @@
 
 ### 2. Encapsulation
 - Encapsulation
+- Importance of Encapsulation
 - Access Modifiers
 - Types of Access Modifiers and Differences
 
@@ -21,11 +22,16 @@
 
 ### 3. Inheritance
 - Inheritance
+- Importance of Inheritance
 - Types of Inheritance
+- Important concepts in Inheritance
+  - access modifiers
+  - Method Overriding
+  - super keyword
+  - Can a subClass Inherit Private members? `NO`
 - Method Overloading
 - Method Overriding
-- super Keyword
-- Multiple Inheritance
+- Multiple Inheritance In Java
 
 ---
 
