@@ -49,11 +49,12 @@
 
 ### 5. Abstraction
 - Abstraction
-- How is Abstraction Achieved in Java (Classes and Interfaces)?
+- How is Abstraction Achieved in Java (`Classes and Interfaces`)?
 - Why Were Default and Static Methods Introduced After Java 8?
-- Can an Abstract Class Extend Another Abstract Class?
-- Can We Have a Constructor Inside an Abstract Class?
-- Can We Create an Instance of an Abstract Class?
+- Can an Abstract Class Extend Another Abstract Class? `YES`
+- Can We Have a Constructor Inside an Abstract Class? `YES Called from Child class using super()`
+- Can We Create an Instance of an Abstract Class? `NO`
+- Can we Override the Default Methods? `YES`
 
 ---
 
