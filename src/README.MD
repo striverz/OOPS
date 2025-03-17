@@ -37,10 +37,12 @@
 
 ### 4. Polymorphism
 - Polymorphism
-- Types of Polymorphism
+- Types of Polymorphism 
+  - Compile-time Polymorphism (Method Overloading)
+  - Run-time Polymorphism (Method Overriding)
 - Dynamic Method Dispatching
-- Can a Return Type Differentiate Overloading?
-- Can We Override Static Methods?
+- Can a Return Type Differentiate Overloading? `No`
+- Can We Override Static Methods? `NO But there is a way`
 - How to Trigger a Static Method from a Child Class?
 
 ---
