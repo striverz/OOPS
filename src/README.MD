@@ -62,10 +62,11 @@
 - Interfaces
 - Can It Have Instance Variables? (No, Only `static final int cnt = 0` is Available)
 - Can They Have Constructors? (No)
-- Can a Class Implement Multiple Interfaces?
-- Why Use Interfaces for Multiple Inheritance?
-- Interface Inheritance
+- Can a Class Implement Multiple Interfaces? `YES`
+- Why Use Interfaces for Multiple Inheritance? `For multiple Inheritance`
 - Default and Static Methods
+- Interface Inheritance
+
 
 ---
 
