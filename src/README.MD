@@ -83,6 +83,10 @@
 ### 8. Inner Classes
 - Inner Classes
 - Types of Inner Classes
+  - Static Nested Class
+  - Non-Static Inner Class
+  - Local Inner Class
+  - Anonymous Inner Class
 
 ---
 

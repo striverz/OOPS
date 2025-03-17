@@ -105,7 +105,7 @@ class Main {
 
 ## 📌 Anonymous Inner Classes
 🔹 **Anonymous inner classes** are a type of **local inner class without a name**.  
-🔹 They are often used to **implement interfaces** or **extend classes** for one-time use.
+🔹 They are often used to **implement interfaces**  for one-time use.
 
 ```java
 abstract class Greeting {
