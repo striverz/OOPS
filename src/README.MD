@@ -6,6 +6,7 @@
 - OOPS
 - Class and Object
 - 4 Pillars of OOPS
+- How is OOPS different from Procedural Programming
 - Setters and Getters
 - Constructors
 

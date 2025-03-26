@@ -1,4 +1,4 @@
-# Access Modifiers in Java
+
 
 ## What is Encapsulation?
 Encapsulation is the process where the internal details of an object are kept hidden from the outside world. It involves bundling an object's data and methods together into a single unit or class.

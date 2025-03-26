@@ -122,3 +122,26 @@ class Main {
 }
 ```
 ---
+
+### Can we Override a default Method?
+- Yes, we can override default methods in Java.
+
+```java
+interface Vehicle1 {
+    // Default method with implementation
+    default void start() {
+        System.out.println("Vehicle is starting...");
+    }
+}
+
+class Car1 implements Vehicle1 {
+    // Inheriting the default method
+}
+
+class Bike implements Vehicle1 {
+    // Overriding the default method
+    public void start() {
+        System.out.println("Bike is starting...");
+    }
+}
+ ```
